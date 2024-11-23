@@ -39,3 +39,11 @@ Thursday November 21, 2024
             recursive sort is a divide and conquer algorithm, it splits the list
             into two halves, sorts them, and then merges them back together
 */
+/*
+Friday Nov, 22, 2024
+    more sorting notes:
+        -Worked on bubble sorting today, used 2 for loops but realized that if i just use one for loop 
+        and compare each pair of elements, it would be more efficient
+        -Would have to add a swapped variable and check each iteration to see if anything was swapped,
+        and if nothing is then you can break out, but that would add more complexity 
+*/
