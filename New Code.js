@@ -47,3 +47,10 @@ Friday Nov, 22, 2024
         -Would have to add a swapped variable and check each iteration to see if anything was swapped,
         and if nothing is then you can break out, but that would add more complexity 
 */
+/*
+Saturday, Nov 23, 2024
+    :
+        -First day back after thanksgiving break, did some work with html and css but nothing to crazy
+        -Also worked on a project that involved using a binary search tree, and traversing it in different ways
+        -Bubbble sort is ineficient, but it is simple to implement, and it is good for small lists
+*/
