@@ -54,3 +54,9 @@ Saturday, Nov 23, 2024
         -Also worked on a project that involved using a binary search tree, and traversing it in different ways
         -Bubbble sort is ineficient, but it is simple to implement, and it is good for small lists
 */
+/*
+December 3, 2024
+    Graphs:
+        -Worked on graphing, learned about different types of graphs, such as directed and undirected
+        -Also learned about bidirectional and undirected edges
+*/
