@@ -59,4 +59,6 @@ December 3, 2024
     Graphs:
         -Worked on graphing, learned about different types of graphs, such as directed and undirected
         -Also learned about bidirectional and undirected edges
+        -Graph traversal is a big part of graphing, and there are different types of traversal,
+        such as depth first and breadth first.
 */
