@@ -49,7 +49,7 @@ Friday Nov, 22, 2024
 */
 /*
 Saturday, Nov 23, 2024
-    :
+    After thanksgiving break:
         -First day back after thanksgiving break, did some work with html and css but nothing to crazy
         -Also worked on a project that involved using a binary search tree, and traversing it in different ways
         -Bubbble sort is ineficient, but it is simple to implement, and it is good for small lists
@@ -61,4 +61,16 @@ December 3, 2024
         -Also learned about bidirectional and undirected edges
         -Graph traversal is a big part of graphing, and there are different types of traversal,
         such as depth first and breadth first.
+*/
+/* 
+December 4, 2024
+    Graph Complexity:
+        -Graph complexity is a measure of how difficult it is to traverse a graph
+        -There are different types of graph complexity, such as linear, quadratic, and exponential
+*/
+/*
+December 10, 2024
+    HTML/CSS:
+        -Started the new html coding module, learned about different types of tags and how to use them
+        -Nothing crazy right away, but it's good to get a feel for how html and css work together
 */
