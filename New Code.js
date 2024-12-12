@@ -74,3 +74,9 @@ December 10, 2024
         -Started the new html coding module, learned about different types of tags and how to use them
         -Nothing crazy right away, but it's good to get a feel for how html and css work together
 */
+/*
+December 11, 2024
+    HTML/CSS Day Two:
+        -Playing around with more html content, and css styling
+        -Classes and ids are useful for styling, and can be used to target specific elements
+*/
