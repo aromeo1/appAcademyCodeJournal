@@ -80,3 +80,11 @@ December 11, 2024
         -Playing around with more html content, and css styling
         -Classes and ids are useful for styling, and can be used to target specific elements
 */
+/*
+December 12, 2024
+    HTML/CSS Day Three:
+        -Worked on positioning and borders
+        -import is good for getting styles and css from outside in your current program
+        -lorem ipsum is good to fill out content on your web pages to test layouts and other things
+        -Also started working on selectors, which are used to target specific elements in your html
+*/
