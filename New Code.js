@@ -88,3 +88,33 @@ December 12, 2024
         -lorem ipsum is good to fill out content on your web pages to test layouts and other things
         -Also started working on selectors, which are used to target specific elements in your html
 */
+/*
+December 13, 2024
+    HTML/CSS Day Four:
+        -Just more practicing with html and css
+        -Heard of a program called dreamweaver that is a tool for webpage creation, 
+        said we probably wouldn't need it but maybe a similar program could be useful
+        for learning the emmence amount of css content
+*/
+/*
+December 16, 2024
+    Flexbox and Grid:
+        -Learned that we dont have to manually type greater then signs to create content on the page,
+        all we have to do is type the content and the language will automatically create the signs
+        -p.intro create a intro class for p and p#fred makes a fred id
+        -flexboxes are used to create flexible boxes, which can be used to create layouts
+        -Grids are used to create grid systems, which can also be used to create layouts
+*/
+/*
+December 18, 2024
+    CSS Frameworks/Transitions!
+        -downloaded practice assessment
+        -practiced buttons and special characters
+        -Frameworks are pre-made css files that can be used to create layouts
+        -Bootstrap is a popular framework that can be used to create responsive layouts
+        -Why use frameworks? They save time and make it easier to create layouts on tight 
+        deadlines or with limited resources, they also add extra functionality to your website
+        -Transitions are used to create animations between states, simple animations
+        -Transitions can be used to create a more engaging user experience, and can be used to
+        draw attention to specific elements on the page
+*/
