@@ -118,3 +118,20 @@ December 18, 2024
         -Transitions can be used to create a more engaging user experience, and can be used to
         draw attention to specific elements on the page
 */
+/* 
+December 19, 2024
+    Netlify:
+        -Learned about netlify, a platform that can be used to host and deploy websites
+        -Netlify can be used to host static websites, and can also be used to host dynamic
+        websites that use a server-side language like python or ruby
+        -Bad Habit: Using vs code to commit and push code to github instead of using the
+        CLI(Command Line Interface)(Terminal)
+*/
+/* 
+December 20, 2024
+    Assessment Weekend :(
+        -Last day before winter break, the assessment is going to be making a moc up of their design
+        -PRIORITY ASSESSMENT
+        -Also used the <a> tag to create buttons that link to a different page, as well as a home button
+        using free button css i found online
+*/
