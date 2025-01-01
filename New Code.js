@@ -129,9 +129,19 @@ December 19, 2024
 */
 /* 
 December 20, 2024
-    Assessment Weekend :(
+    Assessment Weekend :
         -Last day before winter break, the assessment is going to be making a moc up of their design
         -PRIORITY ASSESSMENT
         -Also used the <a> tag to create buttons that link to a different page, as well as a home button
         using free button css i found online
+*/
+/*
+December 31, 2024
+    Back from Break and Back to HTML:
+        -REST, Postman, Servers, Requests, and Responses
+        -REST is an acronym that stands for Representational State of Resource
+        -HTTP requests are used to send data to a server, and HTTP responses are used to send
+        data back to the client
+        -API's are used to interact with servers, and can be used to send and receive data
+        -Stands for Application Programming Interface
 */
