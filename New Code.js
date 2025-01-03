@@ -145,3 +145,9 @@ December 31, 2024
         -API's are used to interact with servers, and can be used to send and receive data
         -Stands for Application Programming Interface
 */
+/* 
+January 2, 2024
+    First Class of the New Year:
+        -working on more postman get and post requests
+        -used postman to get and post information from a server
+*/
