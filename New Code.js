@@ -151,3 +151,17 @@ January 2, 2024
         -working on more postman get and post requests
         -used postman to get and post information from a server
 */
+/*
+January 3, 2024
+    More Postman:
+        -Collections are used to organize requests in postman
+        -Variables are used to store and reuse values in postman
+        -Started working on form tags as well, and how its used to
+        send info from the user to the server
+        -Promises request a value that youll eventually recieve but dont have yet
+        -resolve is used to return a value from a promise
+        -reject is used to reject a promise
+        -promise.all is used to wait for all promises to resolve
+        -async and await is used to make promises easier to read
+        -fetch is used to make a request to a server
+*/
