@@ -165,3 +165,14 @@ January 3, 2024
         -async and await is used to make promises easier to read
         -fetch is used to make a request to a server
 */
+/*
+January 4, 2024
+    Server Stuff:
+        -Browser polyfills are used to make older browsers work with newer code
+        -AJAX is used to make asynchronous requests to a server, and is used to update
+        a webpage without having to reload the page
+        -SPA 's are used to make a single page application, and are used to make a
+        webpage that can be updated without having to reload the page
+        -Fetch has two parameters, the first is the url of the server, and the second is
+        the options of the request
+*/
