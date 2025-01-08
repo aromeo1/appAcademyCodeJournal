@@ -166,7 +166,7 @@ January 3, 2024
         -fetch is used to make a request to a server
 */
 /*
-January 4, 2024
+January 4, 2025
     Server Stuff:
         -Browser polyfills are used to make older browsers work with newer code
         -AJAX is used to make asynchronous requests to a server, and is used to update
@@ -175,4 +175,11 @@ January 4, 2024
         webpage that can be updated without having to reload the page
         -Fetch has two parameters, the first is the url of the server, and the second is
         the options of the request
+*/
+/*
+January 5, 2025
+    API's and Fetch:
+        -Downloaded and worked a little bit on practice assessment
+        -Used fetch to make a request to a server, and was able to get the data
+        -Used fetch to make a post request to a server, and was able to send data
 */
