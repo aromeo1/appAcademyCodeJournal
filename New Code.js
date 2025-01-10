@@ -183,3 +183,11 @@ January 5, 2025
         -Used fetch to make a request to a server, and was able to get the data
         -Used fetch to make a post request to a server, and was able to send data
 */
+/*
+Janurary 6, 2025
+    TCP and UDP:
+        -TCP stands for Transmission Control Protocol, and is used to make sure data
+        is delivered in the correct order
+        -UDP stands for User Datagram Protocol, and is used to send data without
+        making sure it is delivered in the correct order
+*/
