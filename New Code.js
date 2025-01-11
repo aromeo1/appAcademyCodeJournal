@@ -191,3 +191,9 @@ Janurary 6, 2025
         -UDP stands for User Datagram Protocol, and is used to send data without
         making sure it is delivered in the correct order
 */
+/*
+January 7, 2025
+    Assessment Day!!
+        -Big review of everything learned so far about servers and APIs
+        -So nothing really 
+*/
