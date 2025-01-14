@@ -197,3 +197,10 @@ January 7, 2025
         -Big review of everything learned so far about servers and APIs
         -So nothing really 
 */
+/*
+January 13, 2025
+    Browsers, Scripts, BOM, DOM, and more:
+        -Worked on adding js into html files using scripts
+        -DOM represents the structure of a webpage, and you can manipulate it to 
+        change styles, colors, or other elements dynamically
+*/
