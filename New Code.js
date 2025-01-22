@@ -213,3 +213,10 @@ January 14, 2024
             -Temporary: The data you save is only available while the tab or window is open. It disappears when you close it.
             -Good For: Information you only need for a short time, like what you typed in a form during your current visit.
 */
+/*
+January 15, 2025
+    Document Object Selection and Manipulation:
+        - Document Object Model (DOM) is a programming interface for HTML and XML documents
+        - DOM represents the structure of a webpage, and you can manipulate it to
+        change styles, colors, or other elements dynamically
+*/
