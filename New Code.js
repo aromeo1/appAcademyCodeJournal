@@ -205,7 +205,7 @@ January 13, 2025
         change styles, colors, or other elements dynamically
 */
 /*
-January 14, 2024
+January 20, 2024
         Local Storage:
             -Lasts a Long Time: The data you save stays there even after you close the browser. It only goes away if you delete it.
             -Good For: Things you want to keep for a long time, like user settings or preferences.
@@ -214,7 +214,7 @@ January 14, 2024
             -Good For: Information you only need for a short time, like what you typed in a form during your current visit.
 */
 /*
-January 15, 2025
+January 21, 2025
     Document Object Selection and Manipulation:
         - Document Object Model (DOM) is a programming interface for HTML and XML documents
         - DOM represents the structure of a webpage, and you can manipulate it to
