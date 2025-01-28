@@ -220,3 +220,9 @@ January 21, 2025
         - DOM represents the structure of a webpage, and you can manipulate it to
         change styles, colors, or other elements dynamically
 */
+/*
+January 27, 2025
+    Intro to Express:
+        -Express is a Node.js web framework that allows you to build web applications
+        -Express is a popular choice for building web applications because it is flexible and easy to use
+*/
