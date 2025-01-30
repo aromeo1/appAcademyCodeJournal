@@ -226,3 +226,9 @@ January 27, 2025
         -Express is a Node.js web framework that allows you to build web applications
         -Express is a popular choice for building web applications because it is flexible and easy to use
 */
+/*
+January 29, 2025
+    Express and route handlers:
+        -Worked on making routes for a server using Express
+        -Route handlers are functions that handle HTTP requests and return responses
+*/
