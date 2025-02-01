@@ -232,3 +232,10 @@ January 29, 2025
         -Worked on making routes for a server using Express
         -Route handlers are functions that handle HTTP requests and return responses
 */
+/*
+January 31, 2025
+    SQL:
+        -SQL stands for Structured Query Language and is used to interact with databases
+        -INSERT, UPDATE, and DELETE are used to add, modify, and remove data in a database respectively
+        -SQLite3 is a popular choice for local databases, and is used in Express
+*/
