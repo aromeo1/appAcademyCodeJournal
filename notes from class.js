@@ -239,3 +239,8 @@ January 31, 2025
         -INSERT, UPDATE, and DELETE are used to add, modify, and remove data in a database respectively
         -SQLite3 is a popular choice for local databases, and is used in Express
 */
+/*
+February 3, 2025
+    SQL and Express:
+        -Worked on connecting to a SQLite3 database using Express
+*/
